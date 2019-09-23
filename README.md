@@ -14,3 +14,5 @@ The main problems I encountered involves:
 3. **Lack of time**
 
 So I think maybe all the work I did these days may encourage me to attend other competitions in future (hopefully).
+
+`However, it is still a pretty good pratice :)`
