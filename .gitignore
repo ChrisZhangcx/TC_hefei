@@ -1,0 +1,7 @@
+# Default ignored files
+__pycache__
+.idea
+data/*
+!data/*.py
+!data/download_link.txt
+result/
