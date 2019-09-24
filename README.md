@@ -4,7 +4,7 @@ Concretely, it's a product to attend [Tianchi ECG competition](https://tianchi.a
 
 This competition aims to label ECGs to diagnose diseases, which is generally researched by multiple organizations.
 
-I coded about **3 days** to create the whole structure but with trouble to make network really work. So maybe it's time to stop (since I still
+I coded about *3 days* to create the whole structure but with trouble making network really work. So maybe it's time to stop (since I still
 have many important work to do in hand).
 
 The main problems I encountered involves:
